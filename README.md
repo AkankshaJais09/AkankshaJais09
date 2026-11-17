@@ -1,13 +1,17 @@
-<h1 align="center">Hi, I'm Akanksha Jaiswal 👋</h1>
-<h3 align="center">Aspiring Software Developer | React • TypeScript • Node.js</h3>
-<p align="center">B.Tech CSE @ Lovely Professional University · CGPA 8.22</p>
-<p align="center">
-  <a href="https://www.linkedin.com/in/akankshajaiswal09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:akanksha0928j@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=AkankshaJais09&style=for-the-badge&color=blueviolet&label=Profile+Views" />
-</p>
----
- 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:1e3a5f&height=150&section=header&text=Akanksha%20Jaiswal&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=Aspiring%20Software%20Developer&descAlignY=65&descSize=18&descColor=9fb3c8&animation=fadeIn" width="100%" />
+<p><b>React • TypeScript • Node.js • MongoDB • MySQL</b></p>
+<p>B.Tech CSE @ Lovely Professional University · CGPA 8.22</p>
+
+<a href="https://www.linkedin.com/in/akankshajaiswal09/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:akanksha0928j@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://reveal-qr.vercel.app/"><img src="https://img.shields.io/badge/RevealQR-Live_Demo-6a11cb?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Open_to-Internships-2ea44f?style=for-the-badge" />
+
+</div>
+
+<hr>
 ## 👩‍💻 About Me
  
 I'm a Computer Science student who enjoys building clean, secure and user-friendly applications. I work across the stack with **React.js, TypeScript, Node.js, Express and MongoDB/MySQL**. I enjoy turning ideas into secure, well-structured applications.
@@ -97,14 +101,7 @@ A full-stack platform for discovering and managing local businesses on a normali
 - Strengthening **DSA** through daily LeetCode practice
 - Improving RevealQR with new features and better test coverage
 ---
- 
-## 📊 GitHub Stats
- 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AkankshaJais09&show_icons=true&theme=radical&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkankshaJais09&layout=compact&theme=radical&hide_border=true" />
-</p>
----
+<hr> 
  
 <p align="center">📫 Let's connect! Open to internships and collaboration.<br>⭐ If you like a project, give it a star!</p>
  
